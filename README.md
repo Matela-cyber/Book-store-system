@@ -1,6 +1,3 @@
-Based on the available information, the "Book-store-system" repository appears to be a project developed in C++. Here's a comprehensive README for your project:
-
----
 
 # Book Store Management System
 
