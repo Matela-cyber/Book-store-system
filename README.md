@@ -73,6 +73,13 @@ A console-based application developed in C++ for managing bookstore operations, 
 
 ---
 
+## Screen shots
+
+<img src="gbook1.png" >
+<img src="gbook2.png" >
+
+---
+
 ## Project Structure
 
 ```plaintext
